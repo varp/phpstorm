@@ -1,0 +1,19 @@
+<list display="Naviagation Popup" description="Code navigation popup">
+  <action id="QuickJavaDoc" />
+  <action id="QuickImplementations" />
+  <action id="QuickList.$Separator$" />
+  <action id="SelectIn" />
+  <action id="GotoDeclaration" />
+  <action id="GotoImplementation" />
+  <action id="GotoTypeDeclaration" />
+  <action id="GotoSuperMethod" />
+  <action id="GotoRelated" />
+  <action id="QuickList.$Separator$" />
+  <action id="ShowFilePath" />
+  <action id="TypeHierarchy" />
+  <action id="MethodHierarchy" />
+  <action id="CallHierarchy" />
+  <action id="QuickList.$Separator$" />
+  <action id="GotoNextError" />
+  <action id="GotoPreviousError" />
+</list>

@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".env.example" type=".env file" />
+      <mapping pattern="bashrc" type="Bash" />
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="load" type="PLAIN_TEXT" />
+      <mapping ext="custom" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

@@ -1,0 +1,154 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="GotoRelated">
+        <abbreviation name="&gt;gt:rel" />
+      </action>
+      <action id="Vcs.Show.Local.Changes">
+        <abbreviation name="&gt;git:st" />
+      </action>
+      <action id="armory.treeNext">
+        <abbreviation name="gt" />
+      </action>
+      <action id="UnsplitAll">
+        <abbreviation name="&gt;tt:U" />
+      </action>
+      <action id="OpenFile">
+        <abbreviation name="&gt;open" />
+      </action>
+      <action id="InvalidateCaches">
+        <abbreviation name="&gt;restart" />
+      </action>
+      <action id="SelectInProjectView">
+        <abbreviation name="&gt;gt:p" />
+      </action>
+      <action id="Vcs.ShowTabbedFileHistory">
+        <abbreviation name="&gt;git:h" />
+      </action>
+      <action id="armory.node.AddAsRootToOther">
+        <abbreviation name=":rr" />
+      </action>
+      <action id="Generate">
+        <abbreviation name="&gt;c:G" />
+      </action>
+      <action id="opennInNewSplittedTab">
+        <abbreviation name="&gt;gt:stn" />
+        <abbreviation name="&gt;&gt;t" />
+      </action>
+      <action id="armory.editElement">
+        <abbreviation name=":e" />
+      </action>
+      <action id="Vcs.Push">
+        <abbreviation name="&gt;git:push" />
+      </action>
+      <action id="CollapseDocComments">
+        <abbreviation name="&gt;c:cc" />
+      </action>
+      <action id="ImplementMethods">
+        <abbreviation name="&gt;c:IM" />
+      </action>
+      <action id="CallHierarchy">
+        <abbreviation name="&gt;gt:ch" />
+      </action>
+      <action id="VimPluginToggle">
+        <abbreviation name="&gt;vim" />
+      </action>
+      <action id="CheckinProject">
+        <abbreviation name="&gt;git:c" />
+      </action>
+      <action id="armory.node.UpTreeRoot">
+        <abbreviation name="gg" />
+      </action>
+      <action id="ExpandAllToLevel3">
+        <abbreviation name="&gt;c:e:3" />
+      </action>
+      <action id="MethodHierarchy">
+        <abbreviation name="&gt;gt:mh" />
+      </action>
+      <action id="ExpandAllToLevel1">
+        <abbreviation name="&gt;c:e:1" />
+      </action>
+      <action id="ExpandAllToLevel2">
+        <abbreviation name="&gt;c:e:2" />
+      </action>
+      <action id="QuickList.Window Layout">
+        <abbreviation name="&gt;tt" />
+      </action>
+      <action id="SplitHorizontally">
+        <abbreviation name="&gt;tt:sh" />
+      </action>
+      <action id="Git.Pull">
+        <abbreviation name="&gt;git:p" />
+      </action>
+      <action id="MoveTabRight" />
+      <action id="OptimizeImports">
+        <abbreviation name="&gt;c:oi" />
+      </action>
+      <action id="MoveTabDown" />
+      <action id="TypeHierarchy">
+        <abbreviation name="&gt;gt:th" />
+      </action>
+      <action id="ActivateTerminalToolWindow">
+        <abbreviation name="&gt;&gt;" />
+      </action>
+      <action id="SplitVertically">
+        <abbreviation name="&gt;tt:sv" />
+      </action>
+      <action id="OverrideMethods">
+        <abbreviation name="&gt;c:OM" />
+      </action>
+      <action id="armory.node.AddAsRoot">
+        <abbreviation name=":r" />
+      </action>
+      <action id="armory.treeHdr.synchFromSource">
+        <abbreviation name=":ss" />
+      </action>
+      <action id="ChangesView.Ignore">
+        <abbreviation name="&gt;git:ignore" />
+      </action>
+      <action id="armory.box.DeleteTree">
+        <abbreviation name=":w" />
+      </action>
+      <action id="GotoImplementation">
+        <abbreviation name="&gt;gt:i" />
+        <abbreviation name="&gt;gti" />
+        <abbreviation name="&gt;&gt;i" />
+      </action>
+      <action id="MoveEditorToOppositeTabGroup">
+        <abbreviation name="&gt;tt:mg" />
+      </action>
+      <action id="OpenEditorInOppositeTabGroup">
+        <abbreviation name="&gt;tt:og" />
+      </action>
+      <action id="ChangeSplitOrientation">
+        <abbreviation name="&gt;tt:t" />
+      </action>
+      <action id="Git.ResolveConflicts">
+        <abbreviation name="&gt;git:r" />
+      </action>
+      <action id="Git.Merge">
+        <abbreviation name="&gt;git:m" />
+      </action>
+      <action id="Unsplit">
+        <abbreviation name="&gt;tt:u" />
+      </action>
+      <action id="QuickList.Naviagation Popup">
+        <abbreviation name="&gt;goto" />
+      </action>
+      <action id="SelectIn">
+        <abbreviation name="&gt;gt:" />
+      </action>
+      <action id="Git.Fetch">
+        <abbreviation name="&gt;git:fetch" />
+      </action>
+      <action id="opennInSplittedTab">
+        <abbreviation name="&gt;gt:st" />
+      </action>
+      <action id="GotoDeclaration">
+        <abbreviation name="&gt;gt:d" />
+        <abbreviation name="&gt;gtd" />
+        <abbreviation name="&gt;&gt;d" />
+      </action>
+    </abbreviations>
+  </component>
+</application>

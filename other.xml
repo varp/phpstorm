@@ -1,0 +1,191 @@
+<application>
+  <component name="BuiltInServerOptions" builtInServerAvailableExternally="true" />
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v10.4.1/bin/node">
+      <version-cache version="10.4.1" last-modified="1528830245000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v9.4.0/bin/node">
+      <version-cache version="9.4.0" last-modified="1515573955000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.9.0/bin/node">
+      <version-cache version="8.9.0" last-modified="1509467518000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.8.1/bin/node">
+      <version-cache version="8.8.1" last-modified="1508962036000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.6.0/bin/node">
+      <version-cache version="8.6.0" last-modified="1506460350000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.4.0/bin/node">
+      <version-cache version="8.4.0" last-modified="1502815164000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="8.3.0" last-modified="1502305417000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v7.4.0/bin/node">
+      <version-cache version="7.4.0" last-modified="1483551636000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v6.11.5/bin/node">
+      <version-cache version="6.11.5" last-modified="1508872101000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="ActionMacroConfigurationPanel.SPLITTER_PROPORTION" value="0.5" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="1" />
+    <property name="BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="true" />
+    <property name="COMPOSER_PACKAGE_FILTER" value="ext-http&#10;laravel/laravel&#10;phpunit/ph&#10;unit" />
+    <property name="ColorChooser.RecentColors" value="30-243-198-255,,,244-233-35-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.74154854" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.6374269" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="DBE.Default.Dialect" value="" />
+    <property name="Darcula.SavedEditorTheme" value="_@user_Darcula" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Slime (rainglow)" />
+    <property name="Default.SavedEditorTheme" value="_@user_Default" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="ExternalToolDialog.advanced.expanded" value="true" />
+    <property name="FileStructurePopup.narrowDown" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="INSPECTION_FILTER_HISTORY" value="method&#10;same&#10;method with sa" />
+    <property name="INTENTION_FILTER_HISTORY" value="comm" />
+    <property name="InstalledPluginsSearchHistory" value="save&#10;mat&#10;mate&#10;sett&#10;se" />
+    <property name="KEYMAP" value="too&#10;main&#10;recen&#10;go to&#10;comment" />
+    <property name="KEYMAP_IN_QUICK_LISTS" value="split&#10;quick" />
+    <property name="LAST_INJECTED_LANGUAGE" value="JSRegexp" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MoveFile.OpenInEditor" value="true" />
+    <property name="OpenOrAttachDialog.OpenMode" value="new" />
+    <property name="PLUGIN_FILTER" value="OpenAP&#10;SWAGG&#10;SW&#10;git&#10;code rev" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PhpStorm.dumbRunEnabled" value="true" />
+    <property name="PhpStorm.initialConfigurationShown" value="true" />
+    <property name="PhpUnit.Splitter.Proportion" value="0.2700628" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.22875" />
+    <property name="RESTClient.httpMethod" value="GET&#10;POST&#10;PUT&#10;PATCH&#10;DELETE&#10;HEAD&#10;OPTIONS" />
+    <property name="SearchEveryWhereHistory" value="sign&#10;res&#10;do&#10;compo&#10;composer" />
+    <property name="SettingsSearchHistory" value="path&#10;keymap&#10;scope&#10;pl&#10;associ" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SplitFileEditor.Proportion" value="0.5202355" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="TEMPLATES_FILTER_HISTORY" value=".idea&#10;idea&#10;jet&#10;lara&#10;phps" />
+    <property name="TrendingPluginsSearchHistory" value="keymap&#10;keymap exporter&#10;directory editor" />
+    <property name="Vcs.Log.Text.Filter.History" value="taxsign&#10;Helper&#10;dbhelp&#10;e738d0a&#10;384d667" />
+    <property name="Vcs.Push.Splitter.Proportion" value="0.67638487" />
+    <property name="bookmarks.splitter" value="0.415" />
+    <property name="com.intellij.database.view.ui.DeleteDialog.previewExpanded" value="true" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="-1" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="219" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="153" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.openapi.vcs.actions.ShowMessageHistoryAction$1.splitter" value="0.54347825" />
+    <property name="com.intellij.remoteServer.impl.runtime.ui.ServersToolWindowContent:com.intellij.docker.view.DockerViewContribution.0" value="300" />
+    <property name="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.splitter" value="0.3559322" />
+    <property name="delete.locally.added.files" value="true" />
+    <property name="emmet.last.wrap.abbreviations" value="p" />
+    <property name="emmet.recent.wrap.abbreviations" value="p&#10;.main&gt;.main__wrap.container&#10;.row&#10;a&#10;ф&#10;li" />
+    <property name="erlang.last.update.timestamp" value="1530859036115" />
+    <property name="evlsprt.PS-181.3263.18" value="161e67195a6" />
+    <property name="evlsprt2.PS-181.3263.18" value="16189c0b452" />
+    <property name="evlsprt3.171" value="10" />
+    <property name="evlsprt3.172" value="11" />
+    <property name="evlsprt3.173" value="11" />
+    <property name="evlsprt3.181" value="19" />
+    <property name="evlsprt3.182" value="15" />
+    <property name="evlsprt3.183" value="18" />
+    <property name="evlsprt3.PS-173.3727.84" value="14" />
+    <property name="evlsprt3.PS-181.3007.10" value="11" />
+    <property name="evlsprt3.PS-181.3263.18" value="18" />
+    <property name="evlsprt3.PS-181.3741.23" value="11" />
+    <property name="evlsprt3.PS-181.3870.19" value="13" />
+    <property name="export.settings.path" value="$USER_HOME$/Dropbox/Preferences/phpstorm/settings.jar" />
+    <property name="favorites.view.settings.abbreviate.qualified.package.names" value="false" />
+    <property name="favorites.view.settings.autoscroll.from.source" value="false" />
+    <property name="favorites.view.settings.autoscroll.to.source" value="false" />
+    <property name="favorites.view.settings.flatten.packages" value="false" />
+    <property name="favorites.view.settings.hide.empty.middle.packages" value="true" />
+    <property name="favorites.view.settings.show.members" value="true" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/code/lawyer/frontend/resources/js/taxsign/lib&#10;/Users/vardanpro/code/mospartners&#10;/Users/vardanpro/code/lawyer/vendor/zircote/swagger-php&#10;/Users/vardanpro/code/lawyer/frontend/resources&#10;/Users/vardanpro/code/salon/api/resources&#10;/Users/vardanpro/code/lawyer" />
+    <property name="file.gist.reindex.count" value="403578" />
+    <property name="fileTypeChangedCounter" value="46" />
+    <property name="find.popup.splitter" value="0.39071855" />
+    <property name="go.last.update.timestamp" value="1509452692718" />
+    <property name="go.libraries.notification.had.been.shown" value="true" />
+    <property name="ideavim.statistics.timestamp" value="1548052646219" />
+    <property name="js.chrome.debugger.port.98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" value="58313" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="lastTip" value="21" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="org.intellij.images.editor.actions.BackgroundImageDialog#recent" value="" />
+    <property name="org.intellij.images.editor.actions.SetBackgroundImageDialog#recent" value="" />
+    <property name="param.hints.settings.last.edited.language" value="PHP" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Downloads" />
+    <property name="selected.color.option.type" value="LINE_NUMBERS_COLOR" />
+    <property name="settings.code.style.selected.tab.HTML" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Wrapping and Braces" />
+    <property name="settings.code.style.selected.tab.PHP" value="Wrapping and Braces" />
+    <property name="settings.code.style.selected.tab.TypeScript" value="Imports" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="vcs.history.diff.splitter.proportion" value="0.40492308" />
+    <property name="vcs.log.changes.splitter.proportion" value="0.7463175" />
+    <property name="vcs.log.details.splitter.proportion" value="0.5770393" />
+    <property name="vcs.log.diff.splitter.proportion" value="0.6278564" />
+    <property name="vcs.log.history.details.splitter.proportion" value="0.5778612" />
+  </component>
+  <component name="RecentTaskRepositories">
+    <Trello shared="false">
+      <commitMessageFormat>fix(scope): 
+
+{id} #{number} {summary} {time}</commitMessageFormat>
+      <option name="currentBoard">
+        <TrelloBoard id="58f9b8b0bc297e7000d06cb0" name="Юрист" />
+      </option>
+      <option name="currentList">
+        <TrelloList id="ILLEGAL_ID" name="-- from all lists --" />
+      </option>
+      <option name="currentUser">
+        <TrelloUser id="58c9053bc2f3291acba2bcaa" name="vardanpogosyan" />
+      </option>
+      <password>df9edfc9dfcedfc9dfcbdf9cdf9edf9fdfc8dfcfdfcbdf92df9edf9edfc9df98dfc8df9ddfcedfc9dfc9dfc8df92df9ddf9fdfcfdfccdf93dfc8df9fdf9adf9fdf99df93df9edf93df98df9fdf92df9ddf9adf9fdfcbdf9ddf9adfccdf9adfcedf9adf99dfccdf99df9bdf9cdfcedf98df9bdf99df9adfc8df92dfcfdfc8df98</password>
+      <option name="includeAllCards" value="true" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="url" value="https://api.trello.com" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username />
+    </Trello>
+  </component>
+</application>

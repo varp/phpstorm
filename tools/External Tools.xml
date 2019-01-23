@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="md5" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="php" />
+      <option name="PARAMETERS" value="-r &quot;echo md5(&quot;$Prompt$&quot;);&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="timestamp" description="Print current date and time plus number of days as UNIX timestamp " showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="php" />
+      <option name="PARAMETERS" value="-r &quot;echo (new \DateTime())-&gt;add(new \DateInterval(&quot;P$Prompt$D&quot;))-&gt;getTimestamp();&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

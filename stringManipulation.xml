@@ -1,0 +1,64 @@
+<application>
+  <component name="StringManipulationState">
+    <option name="donationNagger">
+      <DonationNagger>
+        <option name="actionsExecuted" value="35" />
+      </DonationNagger>
+    </option>
+    <option name="history">
+      <list>
+        <ColumnAlignerModel>
+          <option name="added" value="1541587304612" />
+          <option name="separators">
+            <list>
+              <option value="=&gt;" />
+              <option value="" />
+            </list>
+          </option>
+          <option name="trimValues" value="false" />
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1542366045838" />
+          <option name="alignBy" value="VALUES" />
+          <option name="separators">
+            <list>
+              <option value="=" />
+              <option value="" />
+            </list>
+          </option>
+          <option name="trimValues" value="false" />
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1542366064445" />
+          <option name="separators">
+            <list>
+              <option value="=" />
+              <option value="" />
+            </list>
+          </option>
+          <option name="trimValues" value="false" />
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1545658489887" />
+          <option name="alignBy" value="VALUES" />
+          <option name="separators">
+            <list>
+              <option value="=" />
+              <option value="" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1545660655115" />
+          <option name="separators">
+            <list>
+              <option value="=" />
+              <option value="" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
+      </list>
+    </option>
+    <option name="version" value="1" />
+  </component>
+</application>

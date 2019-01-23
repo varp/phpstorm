@@ -1,0 +1,18 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="set confirmation token to 1234">
+      <action id="GotoAction" />
+      <typing text-keycode="77:0;68:0">md</typing>
+      <shortuct text="ENTER" />
+      <action id="Tool_External Tools_md5" />
+      <typing text-keycode="49:0;50:0;51:0;52:0">1234</typing>
+      <action id="EditorCopy" />
+      <action id="EditorPaste" />
+      <shortuct text="ENTER" />
+      <action id="Console.TableResult.Submit" />
+    </macro>
+    <macro name="inserts =&gt;">
+      <typing text-keycode="61:0;0:1">=&gt;</typing>
+    </macro>
+  </component>
+</application>
